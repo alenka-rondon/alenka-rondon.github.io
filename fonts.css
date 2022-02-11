@@ -2,7 +2,7 @@ body {
 
   
   
-    color: #609c71;
+    color: #51ad6b;
     font-family: 'Nunito', sans-serif;
   
   
@@ -22,4 +22,11 @@ body {
 
     color: rgb(236, 156, 226);
     font-family: 'Nunito', sans-serif;
+}
+
+.main-header p
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #51179c;
+
 }
