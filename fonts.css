@@ -7,6 +7,7 @@ body {
   
   
     border: 3px solid #00A4BD;
+    background-color: pink;
   
   
     padding: 5px;
@@ -28,5 +29,6 @@ body {
 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #51179c;
+    
 
 }
