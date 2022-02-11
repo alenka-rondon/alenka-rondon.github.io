@@ -13,3 +13,13 @@ body {
   
   
   }
+
+.main-header h1 {
+    padding: 30px;
+    margin: 5% 25%;
+    margin-bottom: 0%;
+
+
+    color: rgb(236, 156, 226);
+    font-family: 'Nunito', sans-serif;
+}
