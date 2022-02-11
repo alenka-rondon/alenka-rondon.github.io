@@ -46,9 +46,10 @@ p
 
 .borders
 {
+    margin-top: 10%;
     margin-left: 5%;
     margin-right: 5%;
-    margin-bottom: 2cm;
+    margin-bottom: 10%;
     border: 3px solid #3f0e55;
     padding: 30px;
     border-radius: 2px;
