@@ -2,33 +2,30 @@ body {
 
   
   
-    color: #51ad6b;
+    color: #c572c5;
     font-family: 'Nunito', sans-serif;
   
   
     border: 3px solid #00A4BD;
-    background-color: pink;
+    background-color: rgb(248, 223, 227);
   
   
-    padding: 5px;
   
   
   }
 
  h1 {
     padding: 30px;
-    margin: 5% 25%;
-    margin-bottom: 0%;
 
 
-    color: rgb(236, 156, 226);
+    color: rgb(58, 20, 53);
     font-family: 'Nunito', sans-serif;
 }
 
 p
 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: #51179c;
+    color: #1e0a38;
     
 
 }
