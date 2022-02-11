@@ -15,7 +15,7 @@ body {
   
   }
 
-.main-header h1 {
+ h1 {
     padding: 30px;
     margin: 5% 25%;
     margin-bottom: 0%;
@@ -25,7 +25,7 @@ body {
     font-family: 'Nunito', sans-serif;
 }
 
-.main-header p
+p
 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #51179c;
