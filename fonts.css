@@ -44,6 +44,11 @@ p
 
 }
 
+a {
+    font-family:fantasy;
+    color:rgb(78, 153, 84)
+}
+
 .borders
 {
     margin-top: 10%;
