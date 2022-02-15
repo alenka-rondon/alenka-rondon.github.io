@@ -62,6 +62,7 @@ a {
     position: relative;
     display: inline-block;
     background-color: transparent;
+    margin: 5px;
   }
   
   .dropdown-content {
