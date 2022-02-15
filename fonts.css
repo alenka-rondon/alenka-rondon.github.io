@@ -26,6 +26,7 @@ img
       width: 100%;
       z-index: 2;
   }
+
   
 .bg
   {
@@ -90,4 +91,11 @@ a {
   .desc {
     padding: 15px;
     text-align: center;
+  }
+
+  .button
+  {
+    background-color: pink;
+    color: #3f0e55;
+    font-style: italic;
   }
