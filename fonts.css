@@ -42,8 +42,10 @@ img
 }
 
 .title {
+    margin: auto;
     color: rgb(163, 21, 120);
     font-family: cursive;
+    font-size: large;
 }
 
 p
