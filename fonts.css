@@ -16,7 +16,7 @@ img
   {
       border: 0;
       vertical-align: middle;
-      opacity: 0.2;
+      opacity: 0.9;
   }
 
 .tab-bar
@@ -30,7 +30,7 @@ img
 .bg
   {
       position: fixed;
-      opacity: 10%;
+      opacity: 20%;
       width: 100%;
       z-index: 0;
   }
