@@ -13,16 +13,27 @@ body {
   
   }
 
+  
+
 img
   {
       border: 0;
       vertical-align: middle;
       opacity: 0.2;
   }
+
+.tab-bar
+  {
+      position: sticky;
+      top: 0;
+      width: 100%;
+      z-index: 2;
+  }
   
 .bg
   {
       position: fixed;
+      opacity: 10%;
       width: 100%;
       z-index: 0;
   }
