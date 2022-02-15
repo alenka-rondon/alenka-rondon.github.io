@@ -45,7 +45,8 @@ img
     margin: auto;
     color: rgb(163, 21, 120);
     font-family: cursive;
-    font-size: large;
+    font-size: 20%;
+    text-align: center;
 }
 
 p
