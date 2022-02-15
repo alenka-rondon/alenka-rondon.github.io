@@ -99,3 +99,8 @@ a {
     color: #3f0e55;
     font-style: italic;
   }
+
+  .button:hover {
+    background-color: #98199c;
+    color: white;
+  }
