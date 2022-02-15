@@ -41,6 +41,11 @@ img
     font-family: 'Nunito', sans-serif;
 }
 
+.title {
+    color: rgb(163, 21, 120);
+    font-family: cursive;
+}
+
 p
 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
