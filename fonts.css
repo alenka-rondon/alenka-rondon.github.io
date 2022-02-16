@@ -31,7 +31,7 @@ img
 .bg
   {
       position: fixed;
-      opacity: 15%;
+      opacity: 5%;
       width: 100%;
       z-index: 0;
   }
@@ -54,6 +54,7 @@ p
 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #461125;
+    font-size: large;
     
     
 
