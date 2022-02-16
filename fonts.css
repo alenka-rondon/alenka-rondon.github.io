@@ -44,7 +44,7 @@ img
 .title {
     margin: auto;
     margin-top: 5%;
-    color: rgb(100, 14, 74);
+    color: rgb(73, 53, 67);
     font-family: cursive;
     font-size: 300%;
     text-align: center;
@@ -104,12 +104,12 @@ a {
 
   .button
   {
-    background-color: pink;
+    background-color: rgb(189, 148, 154);
     color: #3f0e55;
     font-style: italic;
   }
 
   .button:hover {
-    background-color: #98199c;
+    background-color: #3f2639;
     color: white;
   }
