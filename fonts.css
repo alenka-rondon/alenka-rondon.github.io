@@ -66,6 +66,12 @@ a {
     color:rgb(110, 37, 158)
 }
 
+li {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #461125;
+  font-size: large;
+}
+
 .borders
 {
     margin-top: 5%;
