@@ -43,7 +43,7 @@ img
 
 .title {
     margin: auto;
-    margin-top: 5%;
+    margin-top: 10%;
     color: rgb(59, 3, 43);
     font-family: cursive;
     font-size: 300%;
@@ -85,7 +85,7 @@ li {
     position: relative;
     display: inline-block;
     background-color: transparent;
-    margin: 3%;
+    margin: 1%;
   }
   
   .dropdown-content {
