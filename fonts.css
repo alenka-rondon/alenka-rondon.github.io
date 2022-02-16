@@ -74,10 +74,7 @@ li {
 
 .borders
 {
-    margin-top: 5%;
-    margin-left: 5%;
-    margin-right: 5%;
-    margin-bottom: 6%;
+    margin: 5%;
     border: 3px solid #46334e;
     padding: 30px;
     border-radius: 8px;
@@ -88,7 +85,7 @@ li {
     position: relative;
     display: inline-block;
     background-color: transparent;
-    margin: 10%;
+    margin: 3%;
   }
   
   .dropdown-content {
@@ -115,9 +112,8 @@ li {
     background-color: rgb(187, 133, 163);
     color: #3f0e55;
     font-style: italic;
-    font-size: 24px;
-    margin: 2%;
-    border-radius: 8px;
+    font-size: 20px;
+    border-radius: 6px;
   }
 
   .button:hover {
