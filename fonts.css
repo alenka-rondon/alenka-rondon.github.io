@@ -17,15 +17,26 @@ img
       opacity: 0.9;
   }
 
-.tab-bar
-  {
-      position: sticky;
-      top: 0;
-      width: 110%;
-      height: 110%;
-      z-index: 2;
-  }
+.tab-bar {
+  position: sticky;
+  top: 0;
+  width: 110%;
+  height: 110%;
+  z-index: 2;
+}
 
+.button {
+  background-color: rgb(187, 133, 163);
+  color: #3f0e55;
+  font-style: italic;
+  font-size: 18px;
+  border-radius: 6px;
+}
+
+.button:hover {
+    background-color: #502b47;
+    color: white;
+  }
   
 .bg
   {
@@ -105,18 +116,4 @@ li {
   .desc {
     padding: 15px;
     text-align: center;
-  }
-
-  .button
-  {
-    background-color: rgb(187, 133, 163);
-    color: #3f0e55;
-    font-style: italic;
-    font-size: 20px;
-    border-radius: 6px;
-  }
-
-  .button:hover {
-    background-color: #502b47;
-    color: white;
   }
