@@ -10,8 +10,6 @@ body {
 
   }
 
-  
-
 img
   {
       border: 0;
@@ -33,9 +31,10 @@ img
 .bg
   {
       position: fixed;
-      opacity: 13%;
+      opacity: 15%;
       width: 100%;
       z-index: 0;
+      margin:0%
   }
 
  h1 {
