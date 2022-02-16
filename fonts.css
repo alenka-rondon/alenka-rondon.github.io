@@ -15,7 +15,6 @@ img
       border: 0;
       vertical-align: middle;
       opacity: 0.9;
-      margin: 10%;
   }
 
 .tab-bar
@@ -89,7 +88,7 @@ li {
     position: relative;
     display: inline-block;
     background-color: transparent;
-    margin: 15px;
+    margin: 10%;
   }
   
   .dropdown-content {
@@ -117,7 +116,7 @@ li {
     color: #3f0e55;
     font-style: italic;
     font-size: 24px;
-    margin: 10%;
+    margin: 2%;
     border-radius: 8px;
   }
 
