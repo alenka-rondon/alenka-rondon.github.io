@@ -116,7 +116,8 @@ li {
     background-color: rgb(187, 133, 163);
     color: #3f0e55;
     font-style: italic;
-    font-size: 14px;
+    font-size: 24px;
+    margin: 10%;
     border-radius: 8px;
   }
 
