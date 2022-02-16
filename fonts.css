@@ -31,7 +31,7 @@ img
 .bg
   {
       position: fixed;
-      opacity: 5%;
+      opacity: 10%;
       width: 100%;
       z-index: 0;
   }
@@ -44,7 +44,7 @@ img
 .title {
     margin: auto;
     margin-top: 5%;
-    color: rgb(73, 53, 67);
+    color: rgb(59, 3, 43);
     font-family: cursive;
     font-size: 300%;
     text-align: center;
@@ -105,12 +105,12 @@ a {
 
   .button
   {
-    background-color: rgb(189, 148, 154);
+    background-color: rgb(187, 133, 163);
     color: #3f0e55;
     font-style: italic;
   }
 
   .button:hover {
-    background-color: #3f2639;
+    background-color: #502b47;
     color: white;
   }
