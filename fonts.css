@@ -65,9 +65,12 @@ p
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #461125;
     font-size: large;
-    
-    
+}
 
+br {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #461125;
+    font-size: large;
 }
 
 a {
