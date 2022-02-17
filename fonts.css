@@ -47,7 +47,7 @@ img
   }
 
  h1 {
-    color: rgb(26, 4, 54);
+    color: #575555
     font-family: 'Nunito', sans-serif;
 }
 
@@ -63,7 +63,7 @@ img
 p
 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: #461125;
+    color: #575555;
     font-size: large;
 }
 
@@ -80,7 +80,7 @@ a {
 
 li {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  color: #461125;
+  color: #575555;
   font-size: large;
   margin: 10px 0;
 }
