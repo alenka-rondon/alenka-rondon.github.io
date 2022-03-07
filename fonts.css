@@ -89,7 +89,7 @@ li {
     padding: 30px;
     border-radius: 6px;
     border-width: 4px;
-
+    z-index: 1;
 }
 
 .dropdown {
