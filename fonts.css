@@ -1,7 +1,6 @@
 body {
     margin: 0;
 
-    background-image: url("pink_background.jpg");
     background-attachment: scroll;
   
     color: #291c29;
@@ -84,12 +83,13 @@ li {
 
 .borders
 {
-    margin: 5%;
+  margin: 5%;
     border: 3px solid #575555;
     padding: 30px;
     border-radius: 6px;
     border-width: 4px;
     z-index: 1;
+    
 }
 
 .dropdown {
