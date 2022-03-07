@@ -1,7 +1,6 @@
 body {
     margin: 0;
 
-    background-attachment: scroll;
   
     color: #291c29;
     font-family: 'Nunito', sans-serif;
@@ -83,8 +82,7 @@ li {
 
 .borders
 {
-  pointer-events: none;
-  margin: 5%;
+    margin: 5%;
     border: 3px solid #575555;
     padding: 30px;
     border-radius: 6px;
