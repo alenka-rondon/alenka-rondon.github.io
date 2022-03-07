@@ -83,6 +83,7 @@ li {
 
 .borders
 {
+  pointer-events: none;
   margin: 5%;
     border: 3px solid #575555;
     padding: 30px;
