@@ -9,11 +9,13 @@ body {
   z-index: 2;
   background-color: #932962;
   padding: 1%;
+  justify-content: space-between;
 }
 
 a {
   color: aliceblue;
 }
+
 a:link { 
   text-decoration: none; 
 }
