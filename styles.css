@@ -9,8 +9,19 @@ body {
   height: 110%;
   z-index: 2;
   background-color: #932962;
-  padding: 2%;
+  padding: 1%;
 }
+
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover { text-decoration: none; }
+
+
+a:active { text-decoration: none; }
 
 .button {
   background-color: rgb(187, 133, 163);
