@@ -49,7 +49,7 @@ a:active {
  }
 
  h2 {
-   margin-left: 2%;
+  margin-left: 10%;
   color: #464444;
 }
 
@@ -59,7 +59,8 @@ a:active {
 
 .title {
     margin: auto;
-    margin-top: 10%;
+    margin-top: 20%;
+    margin-bottom: 15%;
     color: #932962;
     font-size: 300%;
     text-align: center;
