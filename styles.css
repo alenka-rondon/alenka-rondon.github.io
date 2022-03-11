@@ -16,7 +16,6 @@ body {
   height: 110%;
   z-index: 2;
   background-color: #932962;
-  padding: 2%;
 }
 
 .button {
@@ -46,7 +45,7 @@ body {
 
     width: 22ch;
     animation: typing 2s steps(22), effect .5s step-end infinite alternate;
-    white-space: nowrap;
+   white-space: nowrap;
     overflow: hidden;
     border-right: 3px solid;
     font-size: 2em;
