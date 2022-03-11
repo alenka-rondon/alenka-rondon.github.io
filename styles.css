@@ -1,12 +1,5 @@
 body {
-    margin: 0;
-
-    color: #291c29;
-    font-family: 'Nunito', sans-serif;
-
-    background-image: url('/images/watercolor-pink.jpg');
-    background-position: right top;
-    background-attachment: fixed;
+    margin: 2;
   }
 
 .tab-bar {
@@ -22,7 +15,6 @@ body {
   background-color: rgb(187, 133, 163);
   color: #3f0e55;
   font-size: 18px;
-  border-radius: 6px;
 }
 
 .button:hover {
@@ -30,7 +22,6 @@ body {
     color: white;
   }
   
-
  h1 {
     color: #464444;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -42,26 +33,8 @@ body {
     color: #932962;
     font-size: 300%;
     text-align: center;
-
-    width: 22ch;
-    animation: typing 2s steps(22), effect .5s step-end infinite alternate;
-   white-space: nowrap;
-    overflow: hidden;
-    border-right: 3px solid;
-    font-size: 2em;
 }
 
-@keyframes typing {
-  from {
-    width: 0
-  }
-}
-    
-@keyframes effect {
-  50% {
-    border-color: transparent
-  }
-}
 
 p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
