@@ -64,7 +64,23 @@ a:active {
     color: #932962;
     font-size: 300%;
     text-align: center;
-}
+      animation: typing 2s steps(22), effect .5s step-end infinite alternate;
+      white-space: nowrap;
+      overflow: hidden;
+      border-right: 3px solid;
+    }
+    
+    @keyframes typing {
+      from {
+        width: 0
+      }
+    }
+        
+    @keyframes effect {
+      50% {
+        border-color: transparent
+      }
+    }
 
 p {
     line-height: 1.6;
@@ -75,7 +91,7 @@ p {
 .borders
 {
     margin: 5%;
-    border: 3px solid #932962;
+    border: 3px solid #792250;
     padding: 30px;
     border-radius: 6px;
     border-width: 4px;
