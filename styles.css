@@ -45,11 +45,11 @@ a:active {
   }
   
  h1 {
-    color: #932962;
+  margin-left: 5%;
+  color: #932962;
  }
 
  h2 {
-  margin-left: 10%;
   color: #464444;
 }
 
@@ -59,8 +59,8 @@ a:active {
 
 .title {
     margin: auto;
-    margin-top: 20%;
-    margin-bottom: 15%;
+    margin-top: 10%;
+    margin-bottom: 8%;
     color: #932962;
     font-size: 300%;
     text-align: center;
