@@ -45,14 +45,13 @@ img
 
 .title {
     margin: auto;
-    margin-top: 13%;
+    margin-top: 10%;
     color: rgb(82, 49, 72);
     font-size: 300%;
     text-align: center;
 }
 
-p
-{
+p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     line-height: 1.6;
     color: #464444;
