@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .tab-bar {
@@ -13,7 +14,7 @@ body {
 }
 
 a {
-  color: aliceblue;
+  color: rgb(249, 231, 252);
 }
 
 a:link { 
@@ -47,12 +48,10 @@ a:active {
   
  h1 {
     color: #932962;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
  }
 
  h2 {
   color: #464444;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .title {
@@ -65,7 +64,6 @@ a:active {
 
 
 p {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     line-height: 1.6;
     color: #464444;
     font-size: large;
@@ -73,7 +71,6 @@ p {
 
 
 li {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: #464444;
   font-size: large;
   margin: 10px 0;
