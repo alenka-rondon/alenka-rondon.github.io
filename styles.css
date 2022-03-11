@@ -58,25 +58,26 @@ a:active {
 }
 
 .title {
-    margin: auto;
-    margin-top: 10%;
-    margin-bottom: 8%;
-    color: #932962;
-    font-size: 300%;
-    text-align: center;
-      animation: typing 2s steps(22), effect .5s step-end infinite alternate;
-      white-space: nowrap;
-      overflow: hidden;
-      border-right: 3px solid;
+  margin: auto;
+  margin-top: 10%;
+  margin-bottom: 8%;
+  color: #932962;
+  font-size: 300%;
+  text-align: center;
+  width: 22ch;
+  animation: typing 2s steps(22), effect .5s step-end infinite alternate;
+  white-space: nowrap;
+  overflow: hidden;
+  border-right: 3px solid;
+  }
+
+  @keyframes typing {
+  from {
+    width: 0
     }
-    
-    @keyframes typing {
-      from {
-        width: 0
-      }
-    }
+  }
         
-    @keyframes effect {
+@keyframes effect {
       50% {
         border-color: transparent
       }
