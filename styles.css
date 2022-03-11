@@ -35,9 +35,14 @@ a:active { text-decoration: none; }
   }
   
  h1 {
-    color: #464444;
+    color: #932962;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
  }
+
+ h2 {
+  color: #464444;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 
 .title {
     margin: auto;
