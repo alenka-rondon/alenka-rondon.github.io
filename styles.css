@@ -66,24 +66,16 @@ a:active {
     text-align: center;
 }
 
-
 p {
     line-height: 1.6;
     color: #464444;
     font-size: large;
 }
 
-
-li {
-  color: #464444;
-  font-size: large;
-  margin: 10px 0;
-}
-
 .borders
 {
     margin: 5%;
-    border: 3px solid #575555;
+    border: 3px solid #932962;
     padding: 30px;
     border-radius: 6px;
     border-width: 4px;
