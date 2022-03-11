@@ -1,3 +1,7 @@
+body {
+  margin: 0;
+}
+
 .tab-bar {
   position: sticky;
   top: 0;
@@ -5,6 +9,7 @@
   height: 110%;
   z-index: 2;
   background-color: #932962;
+  padding: 2%;
 }
 
 .button {
