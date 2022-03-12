@@ -6,6 +6,7 @@ if($_POST) {
     $email_title = "";
     $visitor_message = "";
     $email_body = "<div>";
+    console.log("here");
       
     if(isset($_POST['name'])) {
         $visitor_name = filter_var($_POST['name'], FILTER_SANITIZE_STRING);
@@ -40,6 +41,7 @@ if($_POST) {
       
     
     $recipient = "alenka.rondon@gmail.com";
+    console.log("recipient set");
     
       
     $email_body .= "</div>";
