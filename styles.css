@@ -106,7 +106,7 @@ input[type=submit] {
 input[type=text], select, textarea {
   width: 100%; 
   padding: 10px;
-  border: 1px solid rgb(255, 230, 249);
+  border: 1px solid rgb(156, 118, 147);
   border-radius: 4px;
   box-sizing: border-box; /* Make sure that padding and width stays in place */
   margin-top: 6px;
