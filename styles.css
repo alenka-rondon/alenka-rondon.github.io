@@ -104,7 +104,7 @@ button {
   background-color: white;
   border-color: #932962;
   padding: 5px;
-
+  font-size: 15px;
 }
 
 button:hover {
@@ -117,5 +117,5 @@ form {
 }
 
 .elem {
-  margin-bottom: 5%;
+  margin-bottom: 3%;
 }
