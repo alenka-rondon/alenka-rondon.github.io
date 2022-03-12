@@ -99,3 +99,15 @@ p {
     z-index: 1;
     
 }
+
+.button {
+  background-color: white;
+  border-color: #932962;
+  padding: 5 px;
+
+}
+
+.button:hover {
+  color: white;
+  background-color: #932962;
+}
