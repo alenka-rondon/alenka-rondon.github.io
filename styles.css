@@ -40,16 +40,17 @@ a:active {
 }
 
 .button:hover {
-    background-color: #502b47;
-    color: white;
-  }
+  background-color: #502b47;
+  color: white;
+}
   
- h1 {
+h1 {
+  margin-top: 5%;
   margin-left: 5%;
   color: #932962;
- }
+}
 
- h2 {
+h2 {
   color: #932962;
 }
 
@@ -71,33 +72,28 @@ a:active {
   border-right: 3px solid;
   }
 
-  @keyframes typing {
-  from {
-    width: 0
-    }
-  }
+@keyframes typing {
+  from { width: 0 }
+}
         
 @keyframes effect {
-      50% {
-        border-color: transparent
-      }
-    }
+  50% { border-color: transparent }
+}
 
 p {
-    line-height: 1.6;
-    color: #464444;
-    font-size: large;
+  line-height: 1.6;
+  color: #464444;
+  font-size: large;
 }
 
 .borders
 {
-    margin: 5%;
-    border: 3px solid #792250;
-    padding: 30px;
-    border-radius: 6px;
-    border-width: 4px;
-    z-index: 1;
-    
+  margin: 5%;
+  border: 3px solid #792250;
+  padding: 30px;
+  border-radius: 6px;
+  border-width: 4px;
+  z-index: 1;    
 }
 
 button {
