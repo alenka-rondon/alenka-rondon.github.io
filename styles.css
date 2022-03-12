@@ -60,8 +60,8 @@ h2 {
 
 .title {
   margin: auto;
-  margin-top: 10%;
-  margin-bottom: 8%;
+  margin-top: 7%;
+  margin-bottom: 5%;
   color: #932962;
   font-size: 300%;
   text-align: center;
@@ -106,7 +106,7 @@ input[type=submit] {
 input[type=text], select, textarea {
   width: 100%; 
   padding: 10px;
-  border: 1px solid rgb(156, 118, 147);
+  border: 1px solid rgb(211, 176, 203);
   border-radius: 4px;
   box-sizing: border-box; /* Make sure that padding and width stays in place */
   margin-top: 6px;
