@@ -103,11 +103,19 @@ p {
 button {
   background-color: white;
   border-color: #932962;
-  padding: 5 px;
+  padding: 5px;
 
 }
 
 button:hover {
   color: white;
   background-color: #932962;
+}
+
+form {
+  align-content: center;
+}
+
+.elem {
+  margin-bottom: 5%;
 }
