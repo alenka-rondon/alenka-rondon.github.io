@@ -67,24 +67,27 @@
         <h1 id = "Contact">  Contact Me </h1>
 
         <div class="borders">
-            <form action="contact.php" method="post">
+            <form onsubmit="event.preventDefault(); validateForm();">
           
               <label for="username">Name</label>
-              <input type="text" id="username" name="name" placeholder="Your name..">
+              <input type="text" id="username" placeholder="Your name..">
           
               <label for="useremail">Email</label>
-              <input type="text" id="useremail" name="email" placeholder="Your email..">
+              <input type="text" id="useremail"  placeholder="Your email..">
           
-              <label for="msgsubject">Subject</label>
-              <input type="text" id="msgsubject" name="subject" placeholder="The subject line.. ">
+              <label for="subject">Subject</label>
+              <input type="text" id="subject" placeholder="The subject line.. ">
 
-              <label for="usermessage">Message</label>
-              <textarea id="usermessage" name="message" placeholder="Write something.." style="height:200px"></textarea>
+              <label for="message">Message</label>
+              <textarea id="message" placeholder="Write something.." style="height:200px"></textarea>
           
-              <input type="submit" name="submit" value="Submit">
+              <input type="submit" value="Submit">
+              <p id="success"></p>
           
             </form>
           </div>
+
+          <script src="contact.js"></script>
     </body>
 
 </html>
