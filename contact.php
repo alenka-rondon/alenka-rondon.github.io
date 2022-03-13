@@ -8,7 +8,7 @@ if (isset($_POST['submit']) ) {
 
     $recipient = "alenka.rondon@gmail.com";
 
-    mail($recipient, $subject, $message, $email) or die("Error!");
+    mail($recipient, $subject, $message, $email);
 
     echo "Thank You!";
 }
