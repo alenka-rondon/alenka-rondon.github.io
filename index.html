@@ -67,19 +67,25 @@
         <h1 id = "Contact">  Contact Me </h1>
 
         <div class="borders">
-            <form onsubmit="event.preventDefault(); validateForm();">
+            <p>Currently under renovation to remove PHP and implement JavaScript, as GitHub pages doesn't allow PHP.</p>
+            
+            <form action="mailto:alenka.rondon@gmail.com" method="post" enctype="text/plain">
           
               <label for="username">Name</label>
               <input type="text" id="username" placeholder="Your name..">
+              <small class="error"></small>
           
-              <label for="useremail">Email</label>
-              <input type="text" id="useremail"  placeholder="Your email..">
+              <label for="email">Email</label>
+              <input type="text" id="email"  placeholder="Your email..">
+              <small class="error"></small>
           
               <label for="subject">Subject</label>
               <input type="text" id="subject" placeholder="The subject line.. ">
+              <small class="error"></small>
 
               <label for="message">Message</label>
               <textarea id="message" placeholder="Write something.." style="height:200px"></textarea>
+              <small class="error"></small>
           
               <input type="submit" value="Submit">
               <p id="success"></p>
@@ -87,7 +93,6 @@
             </form>
           </div>
 
-          <script src="contact.js"></script>
     </body>
 
 </html>
