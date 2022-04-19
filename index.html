@@ -16,7 +16,6 @@
         <div class="tab-bar">
             <a class= "Tab" href="#About Me">About Me</a>
             <a class= "Tab" href="#Projects">Projects</a>
-            <a class= "Tab" href="#Contact">Contact Me</a>
             <a class= "Tab" href ="resume_2022.pdf">Resume </a>
             <a class= "Tab" href="https://github.com/alenka-rondon?tab=repositories">GitHub</a>
             <a class= "Tab" href="https://www.linkedin.com/in/alenka-rondon-6a700a224/">LinkedIn</a>
@@ -29,12 +28,31 @@
             <h2> About Me: </h2>
 
             <p>
-            I am a Waterloo CS student in my 1B term!  I am a First Year Representative for MathSoc, an organization 
-            that represents the interests of Math students at UWaterloo.
+            I am a Waterloo CS student in my 2A term!  I am currently a VPO for MathSoc, an organization 
+            that represents the interests of Math students at UWaterloo.  I am also an executive at Technova where we are working
+            to bring together our annual hackathon in August.
             </p>
         </div>
 
         <h1 id = "Projects">  Projects  </h1>
+
+        <div class="borders">
+            
+            <div class="horizontal-div">
+                <div style="align-content: center; text-align: center; margin-right: 30px;">
+                    <img src="images/CarbonCompare.png" alt="CarbonCompare logo" width="110px" style="object-fit: contain;">
+                    <button onclick="window.location.href='https://github.com/alenka-rondon/CarbonCalculator';" style="margin-top: 20px;">Go to Project</button>
+                </div>
+                <div> 
+                    <h2>CarbonCompare</h2>
+                    <p> Developed a website that would keep track of and save a user's tasks.  They could use it as a daily checklist for 
+                    tasks that they need to use.  Later modified it to allow user customization of the visual aspects of the tasklist.
+                    <br>
+                    Languages and Technologies used: JavaScript(ReactJS), HTML/CSS
+                    </p>
+                </div>
+            </div>
+        </div>
 
         <div class="borders">
             <h2>TaskListr</h2>
@@ -46,10 +64,20 @@
         </div>
 
         <div class="borders">
-            <h2>PrettyPage</h2>
-            <p> Developed a Chrome Extension that would prettify a user's web page to their liking.<br>
-                Languages and Technologies used: JavaScript, HTML, CSS
-            </p>
+            
+            <div class="horizontal-div">
+                <div style="width: 150px; align-content: center; text-align: center; margin-right: 30px;">
+                    <img src="images/PrettyPage.png" alt="PrettyPage logo" width="100px" style="object-fit: contain;"">
+                    <button onclick="window.location.href='https://github.com/alenka-rondon/pretty-page';" style="margin-top: 20px;">Go to Project</button>
+                </div>
+                <div> 
+                    <h2>PrettyPage</h2>
+                    <p> Developed and published aChrome Extension that would prettify a user's web page to their liking. Contains
+                        a feature to reset every feature back to normal.<br>
+                    Languages and Technologies used: JavaScript, HTML, CSS
+                </p>
+                </div>
+            </div>
         </div>
     
         <div class="borders">
@@ -70,30 +98,6 @@
                 Languages and Technologies used: Java
             </p>
         </div>
-
-        <h1 id = "Contact">  Contact Me </h1>
-
-        <div class="borders">
-            <p>Currently under renovation to remove PHP and implement JavaScript, as GitHub pages doesn't allow PHP.</p>
-
-            <form>
-          
-              <label for="username">Name</label>
-              <input type="text" id="username" placeholder="Your name..">
-          
-              <label for="email">Email</label>
-              <input type="text" id="email"  placeholder="Your email..">
-          
-              <label for="subject">Subject</label>
-              <input type="text" id="subject" placeholder="The subject line.. ">
-
-              <label for="message">Message</label>
-              <textarea id="message" placeholder="Write something.." style="height:200px"></textarea>
-          
-              <input type="submit" value="Submit">
-          
-            </form>
-          </div>
 
     </body>
 
